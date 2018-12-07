@@ -1,0 +1,61 @@
+.body{
+	background-image: url('../img/solicitudes.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+}
+
+.card{
+	width: 100%;
+	margin-bottom: 35px;
+}
+
+.card-title label{
+	color: #000 !important;
+}
+
+.card-text{
+	color: #000 !important;
+}
+
+.light{
+	color: rgba(0, 0, 0, 0.4);
+	font-size: 16px;
+}
+
+.contenido{
+	color: #000 !important;
+}
+
+.container.special{
+	max-width: 90% !important;
+}
+
+label.light{
+	color: rgba(0, 0, 0, 0.4);
+}
+
+.txt{
+	color: #000;
+}
+
+.centrar{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.boton{
+	background-color: #fff;
+	color: #000;
+	border: #fff;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	width: 250px;
+}
+
+.boton:hover{
+	background-color: #000;
+	color: #fff;
+	border: #000;
+}

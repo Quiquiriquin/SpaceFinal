@@ -1,0 +1,41 @@
+.body{
+	background-image: url('../img/fondoViajes.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.card{
+	width: 18rem;
+}
+
+label.card-title-minus{
+	color: rgba(0, 0, 0, .4);
+	font-size: 16px !important;
+}
+
+.card-title{
+	font-size: 30px;
+}
+
+.card-text{
+	color: #000;
+	font-size: 20px;
+}
+
+.card-text p {
+	color: #000;
+}
+
+.container.vuelos{
+	margin-bottom: 74px;
+}
+
+
+.loader-hidden {
+	display: none;
+  }
+  .loader-active {
+	display: block;
+  }

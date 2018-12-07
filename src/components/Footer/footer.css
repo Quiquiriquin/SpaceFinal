@@ -1,0 +1,11 @@
+.background{
+	background-color: #000;
+}
+
+.logo{
+	width: 100px;
+}
+
+.facebook, .insta, .twitter{
+	font-size: 35px;
+}

@@ -1,0 +1,12 @@
+.bdy-naves{
+	background-image: url('../img/navesbg.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+.card-title{
+	color: #000 !important;
+}

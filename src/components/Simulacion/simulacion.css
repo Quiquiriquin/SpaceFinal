@@ -1,0 +1,27 @@
+.body{
+	background-image: url('../img/header-bg.jpg');
+}
+
+.simu{
+	text-align: center;
+	font-size: 50px !important;
+	padding-top: 80px;
+	margin-bottom: 50px;
+}
+
+.simu-expl{
+	font-size: 25px;
+	margin-bottom: 150px;
+}
+
+.vid{
+	margin-top: 110px;
+}
+
+.qr{
+	margin-top: 110px !important;
+}
+
+label.texto-descarga{
+	font-size: 45px;
+}

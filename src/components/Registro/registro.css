@@ -1,0 +1,41 @@
+.pagina{
+	/* width: 100%; */
+	height: 100vh;
+	width: 100%;
+	background-image: url('../img/bgregistro.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 50px;
+}
+
+.tarjeta{
+	max-width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.card-title, .form-group label{
+	color: #000;
+}
+
+.logo{
+	width: 150px;
+}
+
+.regis{
+	width: 100%;
+	max-width: 250px;
+}
+
+@media screen and (max-width : 768px){
+
+	.pagina{
+		height: 100%;
+	}
+
+
+	.tarjeta{
+		margin-bottom: 100px;
+	}
+}

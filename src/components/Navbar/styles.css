@@ -1,0 +1,28 @@
+.logo{
+	width: 100px;
+}
+
+.navBar{
+	background: transparent !important;
+}
+
+ul li a{
+	color: #fff !important;
+}
+
+ul li a:hover{
+	font-weight: 900;
+	color: #fff;
+}
+
+ul li a:visited{
+	color: #fff;
+}
+
+ul li{
+	margin-right: 15px;
+}
+
+.inners{
+	display: inline;
+}
